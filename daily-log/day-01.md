@@ -1,28 +1,30 @@
-# Day 1 — Cybersecurity Journey
+## 🔍 Attacker’s Perspective
 
-## ✅ What I Did
-- Completed TryHackMe:
-  - Offensive Security Intro
-  - Defensive Security Intro
-  - Search Scopes
-  - Linux Fundamentals (Part 1–3)
+- Offensive security focuses on identifying and exploiting weaknesses in systems.
+- Defensive security focuses on detecting and preventing those attacks.
+- The “skills" focuses on efficiently searching the internet and use specialized search engines and technical docs.
 
-## 🧠 Key Concepts Learned
-- Difference between offensive and defensive security
-- Importance of scope in cybersecurity
-- Basic Linux commands and navigation
+## 🧠 Mental Model
 
-## ⚔️ Practical Work
-- Interacted with Linux environment
-- Practiced basic commands
+Cybersecurity is not about tools — it’s about visibility.
 
-## 💡 Key Insight
-If you don’t understand Linux, you are blind in cybersecurity.
+If I cannot see the system (through enumeration, logs, or commands), I cannot attack or defend it.
 
-## ❌ Challenges Faced
-- Getting used to terminal commands
-- Remembering syntax
+Linux is the interface that gives that visibility.
 
-## 🔁 Next Steps
-- Continue Linux practice
-- Start basic enumeration concepts
+## ⚠️ Mistake Identified
+
+Initially approached Linux as “commands to memorize”.
+
+Correction:
+Linux should be understood as a system to explore, not a list of commands.
+
+## 🎯 Skill Gap
+
+- Weak familiarity with terminal navigation
+- Slow command recall
+
+## 🔧 Action Plan
+
+- Practice Linux commands daily (hands-on)
+- Focus on understanding, not memorization
